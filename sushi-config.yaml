@@ -1,8 +1,8 @@
-id: smart.who.int.dak-empty
-canonical: http://smart.who.int/dak-empty
-name: DAKEmpty
-title: SMART DAK Empty
-description: An empty Digital Adaptation Kit (DAK) Implementation Guide to be used as a starting point for publishing SMART DAK content
+id: smart.who.int.dak-workshop
+canonical: http://smart.who.int/dak-workshop
+name: DAKWorkshop
+title: SMART DAK Workshop
+description: A Workshop Digital Adaptation Kit (DAK) Implementation Guide illustrating the authoring workflow for a DAK IG
 status: draft # draft | active | retired | unknown
 version: 0.1.0
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
@@ -256,5 +256,3 @@ menu:
 #   if InstanceOf references a profile:
 #
 #   setId: always # always | standalone-only
-dependencies:
-  who.base: current
