@@ -6,7 +6,7 @@
 
 
 ### Summary 
-This WHO <mark>[insert health domain here]</mark> DAK <mark>add content here</mark>
+This WHO Workshop DAK illustrates the authoring workflow for DAK content
 
 ### L1 Narrative guidelines
 <mark>[insert content here]</mark>
@@ -17,13 +17,13 @@ The L2 <mark>[insert health domain here]</mark> Digital adaptation kit publicati
 <!-- insert links inside the parentheses below --->
 - [Published DAK Document]()
 
-- [Link to core data dictionary]()
+- [Link to core data dictionary](https://brynrhodes.github.io/smart-dak-workshop/dictionary.html)
  
-- [Link to decision support logic]() 
+- [Link to decision support logic](https://brynrhodes.github.io/smart-dak-workshop/decision-logic.html) 
 
 - [Link to scheduling logic]() 
 
-- [Link to indicators table]()
+- [Link to indicators table](https://brynrhodes.github.io/smart-dak-workshop/indicators.html)
  
 - [Link to functional and non functional requirements]()
 

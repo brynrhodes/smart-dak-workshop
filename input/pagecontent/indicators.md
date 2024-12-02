@@ -1,5 +1,7 @@
 This page includes indicators and performance metrics that would be aggregated from core data elements identified and is extracted from the WHO Digital Adaptation Kit (DAK) for <mark>[insert health domain here]</mark> (link forthcoming). 
 
+[WORKSHOP-DAK-indicators.xlsx](WORKSHOP-DAK-indicators.xlsx)
+
 For full operational descriptions of the indicators included and their references, see Web Annex C of the DAK. 
 For machine-readable representations, see the <a href="indicators-measures.html">Indicators and Measures</a>. 
 

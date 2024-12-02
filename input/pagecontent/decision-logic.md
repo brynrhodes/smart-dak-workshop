@@ -9,6 +9,9 @@ and guidance into a machine readable format that clearly labels the
 inputs and outputs that would be operationalized in a digital
 decision-support system.
 
+[WORKSHOP-DAK-decision-support-logic.xlsx](WORKSHOP-DAK-decision-support-logic.xlsx)
+
+
 ### Decision Support Logic Overview
 The table below provides an overview of the decision-support tables and
 algorithms for the different business processes in an EIR. The structure
